@@ -12,6 +12,7 @@ $cities2 = [
     'Vasingtonas' => 0.6,
     'Maskva' => 11.5
 ];
-$cities2[] = 'Londonas => 8.6';
+// cities2['Londonas'] = 8.6; patikrinimas
+print_r($cities2);
 echo "<ul>Gyventoju skaicius: $cities2[Tokijas] mln. </ul>"
 ?>
